@@ -104,7 +104,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 button {
   font-size: calc(10px + 2vmin);
   width: 100px;
