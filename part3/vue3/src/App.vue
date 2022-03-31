@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <img alt="github" src="./assets/github-mark.PNG"/>
+  <img alt="github" src="./assets/github-mark.png"/>
   <HelloWorld msg="Hello! My name is seyeon" />
 </template>
 
