@@ -1,9 +1,9 @@
 <template>
   <div>
     <button @click="get">GET NAME</button>
-    <ul>
-        <li v-for="(name, index) in data" :key="index">{{ name }}</li>
-    </ul>
+    <div v-for="(name, index) in data" :key="index">
+      <p>{{ name }}</p>
+    </div>
   </div>
 </template>
 
