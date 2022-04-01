@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h2>CI/CD WebHook</h2>
     <button @click="get">GET NAME</button>
     <div v-for="(name, index) in data" :key="index">
       <p>{{ name }}</p>
