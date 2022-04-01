@@ -4,6 +4,7 @@ import JsonPlaceholder from './components/JsonPlaceholder.vue';
 
 <template>
   <img alt="logo" src="./assets/logo.png"/>
+  <h1>Hello I'm seyeon</h1>
   <JsonPlaceholder></JsonPlaceholder>
 </template>
 
